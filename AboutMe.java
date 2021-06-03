@@ -15,6 +15,5 @@ public class AboutMe
         
         String color = "red";
         System.out.println("My favorite color is " + color);
-
    }
 }
